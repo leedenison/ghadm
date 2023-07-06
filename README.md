@@ -26,6 +26,8 @@ options:
 ## Configuration
 
 ```bash
+$ cat ~/.ghadm.yaml
+
 endpoint: https://api.github.com/graphql 
 access_token: <YOUR_ACCESS_TOKEN>
 
