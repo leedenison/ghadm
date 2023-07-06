@@ -10,7 +10,7 @@ $ pip install ghadm/
 
 ## Usage
 
-```bash
+```
 usage: ghadm label [-h] {sync,search,delete} ...
 
 positional arguments:
@@ -25,7 +25,7 @@ options:
 
 ## Configuration
 
-```bash
+```
 $ cat ~/.ghadm.yaml
 
 endpoint: https://api.github.com/graphql 
