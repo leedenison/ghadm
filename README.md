@@ -25,7 +25,7 @@ options:
 
 ## Configuration
 
-```
+```yaml
 $ cat ~/.ghadm.yaml
 
 endpoint: https://api.github.com/graphql 
